@@ -13,9 +13,17 @@
 
 Here are some screenshots showcasing the main features of **ChatApp**:
 
-- **🔐 Login Screen**
-- **💬 Chat Interface**
-- **🗃️ Message History**
+- **🔐 Login Screen**  
+  <img src="https://github.com/user-attachments/assets/73c3e8cf-4a9e-4fcb-a061-9c5ffd66349f" alt="Login Screen" width="400">
+
+- **💬 Chat Interface**  
+  <img src="https://github.com/user-attachments/assets/2502ee25-fc9e-45af-a4c5-c48d39534eb7" alt="Chat Interface" width="400">
+
+- **🗃️ Message History**  
+  <img src="https://github.com/user-attachments/assets/ad408f12-ea23-45ad-b3b4-dacaf42c431d" alt="Message History" width="400">
+
+
+
 
 ## ⚙️ **Technologies Used**
 
